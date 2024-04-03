@@ -1,6 +1,4 @@
 #FROGGER
-![frogger](https://github.com/coldflows/frogger/assets/17550445/ee828447-be29-4520-8984-5b062eee4cb9)
-
 
 This project is an implementation of the classic arcade game frogger. It involves a frog trying to cross a croad and a stream to reach saftey at the other side while avoiding obstacles.
 
@@ -31,3 +29,6 @@ JavaScript
 ## Play the game live
 [Click to play](https://coldflows.github.io/frogger/)
 # frogger
+
+![frogger](https://github.com/coldflows/frogger/assets/17550445/12c76aba-9d67-4496-9551-629d4eaf5ca3)
+
