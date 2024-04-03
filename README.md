@@ -26,5 +26,5 @@ CSS3
 JavaScript
 
 ## Play the game live
-[Click to play](https://i-shubhamprakash.github.io/reach-the-river-game/)
+[Click to play](https://coldflows.github.io/frogger/)
 # frogger
